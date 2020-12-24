@@ -54,6 +54,7 @@ function randomDice()
     
     disp('The probability of a tied game is approximately') 
     disp(vpa(ppreT))
+    
     disp('The losing probability of Peter is approximately') 
     disp(vpa(ppreL))
 end
